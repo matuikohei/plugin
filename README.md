@@ -13,8 +13,8 @@
 * setPower(計算式)を使用し、花火の飛距離を設定
 * 花火が打ち上がった際に「たーまやー」という文字が出力される
 * ベットに入ると、アイテムが最大数まで増加する
+<img width="1440" alt="スクリーンショット 2024-05-17 17 35 45" src="https://github.com/matuikohei/plugin/assets/135627017/65106b6f-c2d3-4014-87ee-cf654da2f63c">
 
-<img width="1440" alt="スクリーンショット 2024-05-17 17 35 45" src="https://github.com/matuikohei/Sample/assets/135627017/ec1b7069-151a-47bc-babb-278bbdeca24b">
 
 
 **使用技術**
