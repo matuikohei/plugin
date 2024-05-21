@@ -19,10 +19,13 @@
 
 **プラグイン実装方法**
 ---
+<実装前の準備>
 * Javaのインストール
 * OracleJDKのインストール
 * Minecraftのインストール（Minecraftのバージョンは1.19.3です）
-* Minecraftフォルダのpluginsフォルダの中に、今回のプラグインファイルをペーストすることで、プラグインを実装できます
+<実装方法>
+* pluginフォルダ>buildフォルダ>libsフォルダ>plugin-1.0-SNAPSHOT.jarをコピー
+* Minecraftフォルダのpluginsフォルダの中に、plugin-1.0-SNAPSHOT.jarをペーストすることで、プラグインを実装できます
 
 **使用技術**
 ---
