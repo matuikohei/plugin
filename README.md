@@ -17,6 +17,14 @@
 <img width="1440" alt="スクリーンショット 2024-05-17 17 35 45" src="https://github.com/matuikohei/plugin/assets/135627017/65106b6f-c2d3-4014-87ee-cf654da2f63c">
 
 
+**プラグイン実装方法**
+---
+* Javaのインストール
+* OracleJDKのインストール
+* Minecraftのインストール（Minecraftのバージョンは1.19.3です）
+* Minecraftフォルダのpluginsフォルダの中に、今回のプラグインファイルをペーストすることで、プラグインを実装できます
+
 **使用技術**
 ---
 * Java　17.0.11
+
