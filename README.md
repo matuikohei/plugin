@@ -22,7 +22,8 @@
 * Javaのインストール
 * OracleJDKのインストール
 * Minecraftのインストール（Minecraftのバージョンは1.19.3です）
-* URLのファイルをダウンロード　　　https://drive.google.com/file/d/1zSzhI3lvb3SLPQZYdc9UaBRbffX-Ap8W/view?usp=drive_link
+* URLのファイルをダウンロード
+  https://drive.google.com/file/d/1zSzhI3lvb3SLPQZYdc9UaBRbffX-Ap8W/view?usp=drive_link
 * Minecraftフォルダのpluginsフォルダの中に、ダウンロードしたファイルを移動することで、プラグインを実装できます
 
 **使用技術**
