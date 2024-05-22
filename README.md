@@ -19,8 +19,7 @@
 
 **プラグイン実装方法**
 ---
-* Javaのインストール
-* OracleJDKのインストール
+* Javaのインストール(Javaのバージョンは17.0.11です)
 * Minecraftのインストール（Minecraftのバージョンは1.19.3です）
 * URLのファイルをダウンロード
   https://drive.google.com/file/d/1zSzhI3lvb3SLPQZYdc9UaBRbffX-Ap8W/view?usp=drive_link
